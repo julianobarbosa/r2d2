@@ -1,0 +1,4 @@
+#echo_can               hpec
+#echo_can               oslec                 // enable this line 
+#echo_can                none  # to avoid echo canceler altogether
+#bri_sig_style bri
